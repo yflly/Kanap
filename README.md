@@ -2,6 +2,8 @@
 
 #Kanap
 
+![The picture](./Kanap.jpg "picture")
+
 ## Installation :
 
 `Node` et `npm` doivent être installés localement sur votre machine.\
